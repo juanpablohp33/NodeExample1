@@ -1,0 +1,22 @@
+{
+  "name": "nodeexample1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanpablohp33/NodeExample1.git"
+  },
+  "author": "Juan Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanpablohp33/NodeExample1/issues"
+  },
+  "homepage": "https://github.com/juanpablohp33/NodeExample1#readme",
+  "dependencies": {
+    "validator": "^10.11.0"
+  }
+}
